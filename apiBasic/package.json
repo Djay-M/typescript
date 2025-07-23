@@ -1,0 +1,27 @@
+{
+  "name": "apibasic",
+  "version": "1.0.0",
+  "description": "Basic tutorial for building API with Express and Typescript",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djay-M/typescript.git"
+  },
+  "author": "Djay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Djay-M/typescript/issues"
+  },
+  "homepage": "https://github.com/Djay-M/typescript#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.1.0"
+  }
+}
