@@ -4,6 +4,7 @@
   "description": "Basic tutorial for building API with Express and Typescript",
   "main": "src/server.ts",
   "scripts": {
+    "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
